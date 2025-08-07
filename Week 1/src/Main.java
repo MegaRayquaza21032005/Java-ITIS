@@ -10,13 +10,13 @@ public class Main {
             sm.listStudent.add(sm.input());
         }
         int q = sc.nextInt();
-        while(q-- > 0) {
+        while(q > 0) {
+            q--;
             int i = sc.nextInt();
             sm.print(sm.listStudent.get(i - 1));
         }
     }
 }
-
 /*
 3
 Nguyen Thanh Dat
