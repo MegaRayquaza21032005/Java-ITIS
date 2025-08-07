@@ -22,19 +22,19 @@ public class Main {
 Nguyen Thanh Dat
 20
 Hanoi
-10,0
-9,75
-9,5
+10.0
+9.75
+9.5
 Nguyen Van A
 18
 Haiphong
-8,75
-6,5
+8.75
+6.5
 5
 Hoang Ngoc C
 15
 Thanhhoa
-9,75
-8,25
+9.75
+8.25
 8
  */
